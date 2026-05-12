@@ -1,0 +1,23 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part1{
+    align-items: start;
+    justify-content: start;
+}
+.img1{
+    height: 30px;
+}
+.img2{
+    height: 100px;
+}
+.part2{
+    align-items: end;
+    justify-content: end;
+}
